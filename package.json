@@ -1,0 +1,27 @@
+{
+  "name": "maratonaDev3Edition",
+  "version": "1.0.0",
+  "description": "Meu código na MaratonaDev 3ª Edição - by RocketSeat",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phellping/maratonaDev3Edition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phellping/maratonaDev3Edition/issues"
+  },
+  "homepage": "https://github.com/Phellping/maratonaDev3Edition#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+  }
+}
