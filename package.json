@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Phellping/maratonaDev3Edition#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "next": "^9.2.2",
     "nodemon": "^2.0.2",
     "nunjucks": "^3.2.0",
